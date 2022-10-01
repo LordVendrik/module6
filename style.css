@@ -1,0 +1,23 @@
+.nav{
+    background-color: black;
+    color: white;
+    height: 100px;
+    align-items: center;
+}
+
+.nav p{
+    margin: auto;
+}
+
+.main{
+    width: 80vw;
+    margin: 30px auto;
+}
+
+.error{
+    color: red;
+}
+
+.hide{
+    display:none;
+}
